@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AdminWorkerManagement.Entities
+﻿namespace AdminWorkerManagementV2.Entities
 {
     internal class Team
     {
